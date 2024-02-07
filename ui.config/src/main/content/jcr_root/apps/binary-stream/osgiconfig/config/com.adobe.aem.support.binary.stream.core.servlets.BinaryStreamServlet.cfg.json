@@ -1,0 +1,9 @@
+// Configuration created by Apache Sling JCR Installer
+{
+  "mimeTypes":[
+    "text/html"
+  ],
+  "rootPaths":[
+    "/content/dam"
+  ]
+}
